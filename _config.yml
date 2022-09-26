@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Levent Demirelli"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Levent Demirelli"
 description              : &description "website of LD"
