@@ -11,4 +11,4 @@ About
 ======
 Hello! I'm Levent, an Assistant Professor at Istanbul Beykent University, [the Department of Political Science and Public Administration](https://iibf.beykent.edu.tr/en/departments/political-science-and-public-administration-turkish).
 
-My current research interests 
+My current research interest is the politicization in the Turkish senior level bureaucracy. In this framework, I focus on the fluctuations in the patronage appointments in the senior-level bureaucracy between 1983-2023 in Turkey as well as the career backgrounds of bureaucrats.
