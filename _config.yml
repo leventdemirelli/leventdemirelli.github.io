@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Levent Demirelli"
   avatar           : "profile.png"
-  biop             : "Political Scientist Assistant Professor at Istanbul Beykent University, Department of Political Science & Public Administration"
-  bio              : "pp"
+  bio              : "Political Scientist" "Assistant Professor at Istanbul Beykent University, Department of Political Science & Public Administration"
   location         : "Istanbul"
   employer         :
   pubmed           : 
