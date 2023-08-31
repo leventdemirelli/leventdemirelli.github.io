@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the detailed CV, please click [here](/files/cv_levent_demirelli.pdf)..
+For the detailed CV, please click [here](/files/cv_levent_demirelli.pdf).
 
 Education
 ======
