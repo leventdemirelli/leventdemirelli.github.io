@@ -58,4 +58,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-for [CV](https://github.com/leventdemirelli/leventdemirelli.github.io/blob/39c4ba8fcf8edea2e277088d506307639f51f66c/files/Curriculum%20Vitae%20-%20Levent%20Demirelli.pdf)
+for [CV](files/Curriculum Vitae - Levent Demirelli.pdf)
