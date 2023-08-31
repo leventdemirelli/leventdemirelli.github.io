@@ -11,51 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, Marmara University, 2025 (expected)
+* B.S. in Translation & Interpreting (German), Marmara University, 2024 (expected)
+* Ph.D in Administrative Science, Ankara University, 2018
+* M.S. in Administrative Science, Ankara University, 2014
+* M.S. in Public Administration, Hacettepe University, 2012
+* B.S. in Public Administration, Abant İzzet Baysal University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-Present: Assistant Professor
+  * Istanbul Beykent University
+  * Department of Political Science & Public Administration
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015-2018: Research Assistant
+  * Recep Tayyip Erdogan University
+  * Department of Political Science & Public Administration
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2015-2018: Research Assistant
+  * Recep Tayyip Erdogan University
+  * Department of Political Science & Public Administration
 
-for [CV](/files/cv_levent_demirelli.pdf)
+
+* 2015-2018: Research Assistant
+  * Ankara University
+  * Department of Political Science & Public Administration
+
+
+* 2015-2018: Research Assistant
+  * Rize University
+  * Department of Political Science & Public Administration
+      
+Language Skills
+======
+English, German
+
+Software
+======
+R, Python
+
+For my detailed CV, please click [here](/files/cv_levent_demirelli.pdf).
