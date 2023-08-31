@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For the detailed CV, please click [here](/files/cv_levent_demirelli.pdf).
+
 Education
 ======
 * B.S. in Statistics, Marmara University, 2025 (expected)
@@ -49,5 +51,3 @@ English, German
 Software
 ======
 R, Python
-
-For my detailed CV, please click [here](/files/cv_levent_demirelli.pdf).
